@@ -9,9 +9,10 @@ For this assignment, you'll create some initial plans for your project.
 ### Wireframes
 
  <ul>
-  <li><a href=</li>
-  <li>Tea</li>
-  <li>Milk</li>
+  <li><a href="https://raw.githubusercontent.com/e-aaron-goering/liftoff-assignments/master/P3-Project_Planning/landing%20page.JPG">Landing Page</a></li>
+  <li><a href="https://raw.githubusercontent.com/e-aaron-goering/liftoff-assignments/master/P3-Project_Planning/novel%20title%20page.JPG">Novel Title Page</a></li>
+  <li><a href="https://raw.githubusercontent.com/e-aaron-goering/liftoff-assignments/master/P3-Project_Planning/login.JPG">Logon Page</a></li>
+  <li><a href="https://raw.githubusercontent.com/e-aaron-goering/liftoff-assignments/master/P3-Project_Planning/signup.JPG">Signup Page</a></li>
 </ul>
 
 ### Project Tracker
